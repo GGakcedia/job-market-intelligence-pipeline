@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual env
+.venv/
+venv/
+
+# pytest
+.pytest_cache/
+
+# jupyter
+.ipynb_checkpoints/
+
+# data files (large datasets)
+data/raw/
+data/processed/
+
+# OS
+.DS_Store
+Thumbs.db
